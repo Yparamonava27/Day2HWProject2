@@ -7,5 +7,9 @@ public class Class1 {
 		
 		
 	}
+	public void iraqInfo() {
+		
+		System.out.println("Mohammed said its Iraq liberation day today");
+	}
 
 }
